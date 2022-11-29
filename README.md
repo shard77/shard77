@@ -12,7 +12,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![MasterHead](https://media.discordapp.net/attachments/535175578047873024/1047069207034068992/banner_1.png?width=1440&height=534)](https://github.com/shard77/)
 
 ### Hi there 👋
 
