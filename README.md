@@ -16,6 +16,8 @@ Here are some ideas to get you started:
 
 ### Hi there 👋
 
+![](https://komarev.com/ghpvc/?username=shard77)
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=shard77&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shard77&show_icons=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
