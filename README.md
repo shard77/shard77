@@ -18,4 +18,11 @@
 - 🎒 Studying at [Guardia School](https://guardia.school/)
   
 
+  
  <h4>Contact Me:</h4>
+
+  
+  
+
+  <h4>Tools and Skills:</h4>
+  [![](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
