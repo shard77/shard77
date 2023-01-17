@@ -17,4 +17,5 @@
 
 - 🎒 Studying at [Guardia School](https://guardia.school/)
   
-  
+
+ <h3>Contact Me:</h3>
