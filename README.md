@@ -20,7 +20,16 @@
 
   
  <h4>Contact Me:</h4>
+  
+- Discord: [shard7#1000](https://discordapp.com/users/267599095009509376)
 
+- 🧠 I’m currently learning **Rust, Typescript**
+
+- 👯 I'm open to collaborate!
+
+- 📝 I regularly write articles on [shard7.fr](https://shard7.fr/)
+
+- 🎒 Studying at [Guardia School](https://guardia.school/)
   
   
 
