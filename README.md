@@ -7,4 +7,14 @@
   
 </div>
   
+- 🚀 I’m currently working on [RustShell](RustShell)
+
+- 🌱 I’m currently learning **Rust, Typescript**
+
+- 👯 I'm open to collaborate!
+
+- 📝 I regularly write articles on [shard7.fr](https://shard7.fr/)
+
+- 🎒 I'm currently studying at [Guardia School](https://guardia.school()
+  
   
