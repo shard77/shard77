@@ -11,7 +11,7 @@
 
 - 🧠 I’m currently learning **Rust, Typescript**
 
-- 👯 I'm open to collaborate!
+- 👯 I'm open to collaborate
 
 - 📝 I regularly write articles on [shard7.fr](https://shard7.fr/)
 
