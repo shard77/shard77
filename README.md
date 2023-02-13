@@ -7,7 +7,7 @@
   
 </div>
   
-- 🚀 I’m currently working on [RustShell](RustShell)
+- 🚀 I’m currently working on [RShell](https://github.com/shard77/RShell)
 
 - 🧠 I’m currently learning **Rust, Typescript**
 
