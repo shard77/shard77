@@ -9,7 +9,7 @@
   
 - 🚀 I’m currently working on [RShell](https://github.com/shard77/RShell)
 
-- 🧠 I’m currently learning **Rust, Typescript**
+- 🧠 I’m currently learning **Rust, Typescript, C**
 
 - 👯 I'm open to collaborate
 
