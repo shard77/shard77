@@ -15,9 +15,6 @@
 
 - 📝 I regularly write articles on [shard7.fr](https://shard7.fr/)
 
-- 🎒 Studying at [Guardia School](https://guardia.school/)
-  
-
   
  <h4>Contact Me:</h4>
   
