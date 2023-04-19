@@ -6,8 +6,6 @@
   ![](https://custom-icon-badges.herokuapp.com/github/stars/shard77?color=FF1010&labelColor=F00000&style=for-the-badge&logo=person-add&label=Stars&logoColor=white)
   
 </div>
-  
-- 🚀 I’m currently working on [RShell](https://github.com/shard77/RShell)
 
 - 🧠 I’m currently learning **Rust, Typescript, C**
 
