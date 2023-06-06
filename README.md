@@ -7,11 +7,9 @@
   
 </div>
 
-- 🧠 I’m currently learning **Rust, Typescript, C**
+- Currently learning **Rust**, **Typescript** and **C**
 
-- 👯 I'm open to collaborate
-
-- 📝 I regularly write articles on [shard7.fr](https://shard7.fr/)
+- Open to collaborate
 
   
  <h4>Contact Me:</h4>
