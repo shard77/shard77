@@ -11,14 +11,6 @@
 
 - Open to collaborate
 
-  
- <h4>Contact Me:</h4>
-  
-- Discord: [shard7#1000](https://discordapp.com/users/267599095009509376)
-
-- Mail: [sh7user@gmail.com](mailto:sh7user@gmail.com)
-  
-
 <h4>Tools and Skills:</h4>
 
 [![](https://skillicons.dev/icons?i=python,rust,html,css,scss,javascript,nodejs,php,typescript,linux,git&perline=6)](https://skillicons.dev)
