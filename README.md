@@ -1,5 +1,5 @@
 <image src="https://media.discordapp.net/attachments/968169971765084241/1064992847138410678/Banner.png?width=2000&height=355" width=100%>
-<h3 align="center">A passionate programmer, Linux enthousiast and cybersecurity student!</h3>
+<h3 align="center">Programming | Linux | Cybersecurity</h3>
 <div align=center>
   
   ![](https://custom-icon-badges.herokuapp.com/github/followers/shard77?color=gray&labelColor=gray&style=for-the-badge&logo=person-add&label=Followers&logoColor=white)
