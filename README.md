@@ -13,4 +13,4 @@
 
 <h4>Some Tools and Skills:</h4>
 
-[![](https://skillicons.dev/icons?i=python,rust,html,css,scss,javascript,nodejs,php,typescript,linux,git&perline=6)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=python,rust,html,css,scss,javascript,nodejs,php,typescript,C,linux,git&perline=6)](https://skillicons.dev)
