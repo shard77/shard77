@@ -7,7 +7,7 @@
   
 </div>
 
-- Currently learning **Rust**, **Typescript** and **C**
+- Currently learning **Rust** and **C**
 
 - Open to collaborate
 
