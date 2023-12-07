@@ -2,7 +2,7 @@
 <h3 align="center">Programming | Linux | Cybersecurity</h3>
 
 <picture>
-  <img src="/github-metrics.svg" alt="Metrics">
+  <img src="/github-metrics.svg" alt="Metrics" width="400">
 </picture>
 
 <h4>Some Tools and Skills:</h4>
