@@ -30,14 +30,13 @@ jobs:
           plugin_activity_limit: 2
           plugin_activity_load: 300
           plugin_activity_visibility: all
-          plugin_followup: yes
-          plugin_followup_archived: yes
-          plugin_followup_sections: repositories
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
           plugin_notable: yes
           plugin_notable_from: organization
           plugin_notable_types: commit
           plugin_repositories: yes
-          plugin_repositories_order: featured, pinned, starred, random
+          plugin_repositories_order: pinned, starred, random
+          plugin_topics: yes
+    
           
