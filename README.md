@@ -3,6 +3,6 @@
 
 <p align="left"><img src="/github-metrics.svg" alt="Metrics" width="400"></p>
 
-<h4>Some Tools and Skills:</h4>
+<h4>Some Tools and Skillz:</h4>
 
 [![](https://skillicons.dev/icons?i=python,rust,html,css,scss,javascript,nodejs,php,typescript,c,linux,git&perline=6)](https://skillicons.dev)
