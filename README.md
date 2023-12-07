@@ -1,7 +1,9 @@
 <image src="https://media.discordapp.net/attachments/968169971765084241/1064992847138410678/Banner.png?width=2000&height=355" width=100%>
 <h3 align="center">Programming | Linux | Cybersecurity</h3>
 
-<p align="left"><img src="/github-metrics.svg" alt="Metrics"></p>
+<picture>
+  <img src="/github-metrics.svg" alt="Metrics">
+</picture>
 
 <h4>Some Tools and Skills:</h4>
 
