@@ -5,7 +5,8 @@
   <img src="/github-metrics.svg" alt="Metrics" width="440">
 </picture>
 <div align="center">
-  
+  <h4>Some Tools and Skills:</h4>
+
   [![](https://skillicons.dev/icons?i=python,rust,html,css,scss,javascript,nodejs,php,typescript,c,linux,git&perline=6)](https://skillicons.dev)
 </div>
 </p>
