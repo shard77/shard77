@@ -6,7 +6,7 @@
 </picture>
   
 <div align="center">
-  test
-  [![](https://skillicons.dev/icons?i=python,rust,html,css,scss,javascript,nodejs,php,typescript,c,linux,git&perline=6)](https://skillicons.dev)
+  
+  [![test](https://skillicons.dev/icons?i=python,rust,html,css,scss,javascript,nodejs,php,typescript,c,linux,git&perline=6)](https://skillicons.dev)
 </div>
 </p>
