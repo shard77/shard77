@@ -18,7 +18,7 @@ jobs:
           # Options
           user: shard77
           template: classic
-          base: header, activity, community, repositories, metadata
+          base: header, community, repositories, metadata
           config_timezone: Europe/Paris
           plugin_achievements: yes
           plugin_achievements_display: compact
