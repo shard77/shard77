@@ -30,7 +30,7 @@ jobs:
           plugin_notable_from: organization
           plugin_notable_types: commit
           plugin_repositories: yes
-          plugin_repositories_featured: Athena-OS/athena-iso
+          plugin_repositories_featured: Memoscopy/libMMU
           plugin_repositories_order: featured, pinned, starred, random
           plugin_topics: yes
           
