@@ -408,7 +408,7 @@
                             <div class="label" title="Ensure your code meets quality standards and ship with confidence.">code review</div>
                             <div class="label" title="The terminal is an interface in which you can type and execute text-based commands.">terminal</div>
                             <div class="label" title="Compilers are software that translate higher-level programming languages to lower-level languages (e.g. machine code).">compiler</div>
-                            <div class="label" title="Security, Framework, Continuous integration, Documentation, Shell, Operating system, Server, Deployment, Project management, Library, Emulator, Serverless, Font, Testing, Dependency management, P2P, Package manager, Parsing, Icon font, swagger-oss">and 20 more...</div>
+                            <div class="label" title="Security, Framework, Continuous integration, Documentation, Shell, Operating system, Server, Project management, Deployment, Library, Emulator, Serverless, Font, Testing, Dependency management, P2P, Package manager, Parsing, Icon font, swagger-oss">and 20 more...</div>
                         </div>
                     </section>
                 </div>
@@ -1458,7 +1458,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 18 Apr 2026, 17:15:20 (timezone Europe/Paris) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 18 Apr 2026, 18:12:14 (timezone Europe/Paris) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
